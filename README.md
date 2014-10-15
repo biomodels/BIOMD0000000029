@@ -1,3 +1,21 @@
+# BIOMD0000000029: model_0000001
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000029.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000029.git@20140916`
+
+
+# Model Notes
 
 
 The model corresponds to the schema 3 of Markevich et al 2004, as described in
@@ -9,4 +27,5 @@ This model originates from BioModels Database: A Database of Annotated
 Published Models. It is copyright (c) 2005-2007 The BioModels Team.  
 For more information see the [terms of
 use](http://www.ebi.ac.uk/biomodels/legal.html) .
+
 
